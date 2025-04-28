@@ -55,4 +55,4 @@ Neste exercício, você irá:
 
 Obtenha ajuda: [Publique em nosso fórum de discussão](https://github.com/orgs/Copilot-Workshop-Invillia/discussions/categories/getting-started-with-github-copilot) &bull; [Confira a página de status do GitHub](https://www.githubstatus.com/)
 
-&copy; 2025 GitHub &bull; [Código de Conduta](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [Licença MIT](https://gh.io/mit)
+&copy; 2025 GitHub &bull; [Código de Conduta](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [Licença MIT](https://gh.io/mit)# Triggering CI pipeline
